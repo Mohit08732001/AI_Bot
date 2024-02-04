@@ -1,1 +1,1 @@
-apikey = "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"
+apikey = "Your OPEN AI Key"
