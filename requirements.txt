@@ -1,0 +1,4 @@
+pywhatkit~=5.4
+openai~=1.11.0
+speech_recognition
+win32com
